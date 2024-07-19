@@ -6,5 +6,8 @@ https://github.com/user-attachments/assets/4fbc7bcb-ef0c-4d99-8ce6-f8db96d54442
 
 ## Sliding window detection method
 
-https://github.com/user-attachments/assets/c0fcc4d2-4ea3-4d28-9afc-893f3c5635cd
+
+
+https://github.com/user-attachments/assets/589f3a20-f926-4c1b-9b93-3cfbf9e9ca2e
+
 
